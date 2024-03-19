@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marialelopez
+- 👀 I’m passionate systems engineer from Colombia
+- 🌱 I’m currently learning angular and react
+- 💞️ I’m looking to collaborate on large o small companies
